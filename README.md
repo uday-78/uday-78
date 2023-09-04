@@ -1,15 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
 <h1 align="center">Hi 👋, I'm Uday Tiwari</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate android and blockChain Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-78&label=Profile%20views&color=0e75b6&style=flat" alt="uday-78" /> </p>
 
-- 🔭 I’m currently working on **Music Player**
+- 🔭 I’m currently learning **BlockChain**
 
-- 🌱 I’m currently learning **Android Development**
-
-- 💬 Ask me about **android devlopment , DSA**
+- 💬 Ask me about **Basics of android devlopment , DSA**
 
 - 📫 How to reach me **udaytewary54@gmail.com**
 
